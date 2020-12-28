@@ -20,6 +20,9 @@ Based on that city list, input statements were created to retrieve potential tra
 
 From the vacation map, the island of Mauritius was chosen as the preferred travel destination.  Four cities where chosen to visit on vacation.  The Google Maps based driving route, map with pop-up markers for additional information, and map designating the four cities (with no additional pop-ups) were generated.
 
+#### Mauritius Travel Itinerary
+![](Vacation_Itinerary/WeatherPy_travel_df.png)
+
 #### Mauritius Vacation Driving Route
 ![](Vacation_Itinerary/WeatherPy_travel_map.png)
     
